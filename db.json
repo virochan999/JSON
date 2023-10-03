@@ -124,7 +124,7 @@
         "https://i.dummyjson.com/data/products/8/4.jpg",
         "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
       ]
-    },
+    }
   ],
   "cart": [
     {
@@ -179,6 +179,6 @@
         "https://i.dummyjson.com/data/products/2/3.jpg",
         "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
       ]
-    },
+    }
   ]
 }
